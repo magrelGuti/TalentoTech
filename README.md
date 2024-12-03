@@ -11,6 +11,8 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 - **Nombre de la marca:** Colgaz del Valle clc Tuluá  
 - **Eslogan:** "Energía segura, calor confiable"  
 - **Logo:**  
+![Logo generado con DALL-E](https://raw.githubusercontent.com/magrelGuti/TalentoTech/refs/heads/main/DALL-E.png)
+
 
 > DALL-E, Leonardo IA y editado en Canva  
 > metaIA
