@@ -1,6 +1,3 @@
-Aquí tienes tu texto en formato Markdown (.md):
-
-```md
 # Sección 26
 
 ## ChatGPT
@@ -41,4 +38,4 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 
 - **Propuesta de Valor única:**  
   Ofrecemos gas propano de alta calidad en diferentes presentaciones, con un servicio rápido, confiable y seguro que garantiza la tranquilidad de nuestros clientes en hogares, negocios y aplicaciones industriales. Nos destacamos por incluir equipos como reguladores y estufas, así como por un servicio al cliente que combina innovación tecnológica y atención personalizada.
-```
+
