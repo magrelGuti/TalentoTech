@@ -58,6 +58,12 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 
 **Imágenes promocionales:**  
 **Mensajes Publicitarios:**
+https://raw.githubusercontent.com/magrelGuti/TalentoTech/refs/heads/main/catalogo%20pipas.webp
+
+| **Imagen promocional** | **Mensaje Plubicitario** |
+|:----------------------:|:----------------------------------:|:----------:|:----------:|
+| ![Catalogo](![image](https://github.com/user-attachments/assets/2126af7d-25a3-46dd-9ec6-04afb7e02b83)
+) | aqui va el mensaje |
 
 ---
 
