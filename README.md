@@ -58,18 +58,7 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 
 **Imágenes promocionales:**  
 **Mensajes Publicitarios:**
-https://raw.githubusercontent.com/magrelGuti/TalentoTech/refs/heads/main/catalogo%20pipas.webp
 
-
-El error ocurre debido a una estructura incorrecta de la tabla y el mal uso del enlace de la imagen. Aquí te dejo la versión corregida del código:
-
-Correcciones:
-Elimina la columna sobrante en el encabezado: Solo necesitas dos columnas, pero tienes cuatro separadores (|).
-Corrige la sintaxis del enlace a la imagen: El formato es ![texto alternativo](URL).
-Aquí está el código corregido:
-
-markdown
-Copiar código
 | **Imagen Promocional** | **Mensaje Publicitario** |
 |:----------------------:|:------------------------:|
 | ![Catalogo](https://github.com/user-attachments/assets/2126af7d-25a3-46dd-9ec6-04afb7e02b83) | Aquí va el mensaje |
