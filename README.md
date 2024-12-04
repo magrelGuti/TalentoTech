@@ -107,7 +107,6 @@ El objetivo principal de la estrategia inicial es posicionar la distribuidora de
 - **Mensaje Principal:** "Energía que conecta tu hogar y negocio con soluciones seguras y confiables."  
 - **Call to Action (CTA):** Promociones de lanzamiento y entrega a domicilio gratuita durante el primer mes.  
 
----
 
 ### Calendario de Publicaciones  
 
@@ -146,7 +145,6 @@ El objetivo principal de la estrategia inicial es posicionar la distribuidora de
   Post destacando la ubicación y los canales de contacto de la distribuidora.  
   **Formato:** Mapa interactivo con datos de contacto.  
 
----
 
 ### Frecuencia de Publicación  
 - **Publicaciones en el feed:** 2-3 publicaciones por semana.  
