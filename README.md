@@ -45,3 +45,111 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 - **Propuesta de Valor única:**  
   Ofrecemos gas propano de alta calidad en diferentes presentaciones, con un servicio rápido, confiable y seguro que garantiza la tranquilidad de nuestros clientes en hogares, negocios y aplicaciones industriales. Nos destacamos por incluir equipos como reguladores y estufas, así como por un servicio al cliente que combina innovación tecnológica y atención personalizada.
 
+---
+
+# Sección 27
+
+## ChatGPT y DALL-E  
+
+**Nombre de la marca:** Colgaz del Valle CLC Tuluá  
+**Eslogan:** “Energía segura, calor confiable”  
+
+### Sección de Contenido Visual para Redes Sociales  
+
+**Imágenes promocionales:**  
+
+---
+
+## Mensajes Publicitarios  
+
+### Redacción de Descripción de Productos  
+
+**Cilindro de Gas 10LB (38 cm de altura)**  
+Perfecto para hogares pequeños o negocios con necesidades básicas de gas, este cilindro compacto de 10 libras es ideal para alimentar estufas, parrillas y calentadores. Con solo 38 cm de altura, es fácil de manejar y almacenar, ofreciendo practicidad sin ocupar mucho espacio. ¡Tu aliado para cocinar tus comidas favoritas o mantener tu negocio en marcha!  
+
+**Cilindro de Gas 20LB (54 cm de altura)**  
+Diseñado para hogares activos o negocios pequeños, este cilindro de 20 libras y 54 cm de altura es una excelente opción para quienes buscan un equilibrio entre capacidad y portabilidad. Perfecto para equipos de cocina, parrillas o tareas diarias. ¡Haz tu día a día más cómodo con un suministro confiable de gas!  
+
+**Cilindro de Gas 33LB (72 cm de altura)**  
+Si buscas más capacidad para uso doméstico o comercial, este cilindro de 33 libras es ideal para cubrir tus necesidades. Con 72 cm de altura, es perfecto para restaurantes, food trucks o familias numerosas que buscan un suministro continuo de gas. ¡Más tiempo de uso y menos recargas!  
+
+**Cilindro de Gas 40LB (82 cm de altura)**  
+El cilindro de 40 libras es la elección ideal para negocios en crecimiento o hogares con mayores demandas. Su capacidad y 82 cm de altura lo hacen perfecto para cocinas industriales, hornos grandes o eventos al aire libre. ¡Asegúrate de nunca quedarte sin energía con este robusto cilindro!  
+
+**Cilindro de Gas 100LB (126 cm de altura)**  
+Para los grandes retos de tu negocio o las mayores necesidades de tu hogar, este cilindro de 100 libras es la solución definitiva. Con 126 cm de altura, ofrece un suministro de gas duradero, perfecto para empresas, cocinas industriales o casas que buscan máxima autonomía. ¡Confía en este gigante para mantener todo funcionando sin interrupciones!  
+
+---
+
+## Tono de Marca  
+
+**Tono Informativo y Profesional**  
+- **Objetivo:** Presentar la información de manera clara, precisa y neutral.  
+- **Estilo:** Directo, sin adornos emocionales, centrado en los detalles técnicos (tamaños, colores, logotipos).  
+- **Propósito:** Generar confianza en el producto al resaltar sus características esenciales de forma clara y comprensible.  
+
+---
+
+## Estrategia de Marketing Digital Inicial  
+
+### Resumen de la Estrategia de Lanzamiento  
+
+El objetivo principal de la estrategia inicial es posicionar la distribuidora de gas propano como una solución confiable y accesible para hogares y negocios en Tuluá y sus alrededores. Para ello, se implementará una campaña digital que destaque los beneficios del servicio, la variedad de productos ofrecidos y la comodidad de adquisición.  
+
+### Elementos Clave de la Estrategia  
+- **Identidad de Marca:** Crear una identidad digital que transmite confianza, seguridad y accesibilidad.  
+- **Público Objetivo:**  
+  - Hogares que buscan servicios de gas para cocinar o calefacción.  
+  - Negocios como restaurantes, panaderías y hoteles que utilizan gas propano en sus operaciones diarias.  
+- **Canales de Comunicación:**  
+  - Redes Sociales: Facebook e Instagram como plataformas principales.  
+  - WhatsApp Business para atención al cliente y pedidos.  
+  - Google My Business para mejorar la visibilidad local.  
+- **Mensaje Principal:** "Energía que conecta tu hogar y negocio con soluciones seguras y confiables."  
+- **Call to Action (CTA):** Promociones de lanzamiento y entrega a domicilio gratuita durante el primer mes.  
+
+---
+
+## Calendario de Publicaciones  
+
+### Semana 1  
+- **Día 1:**  
+  Publicación de presentación de la distribuidora: historia, misión, y visión.  
+  **Formato:** Video de 30 segundos con imágenes del local, los productos y el equipo humano.  
+
+- **Día 3:**  
+  Post sobre los tamaños de cilindros disponibles (10 lb, 20 lb, 33 lb, 40 lb y 100 lb) y sus aplicaciones.  
+  **Formato:** Carrusel de imágenes con texto informativo.  
+
+- **Día 5:**  
+  Historias en Instagram/Facebook anunciando la promoción de lanzamiento: "Entrega gratis durante diciembre."  
+  **Formato:** Imagen con texto animado.  
+
+### Semana 2  
+- **Día 2:**  
+  Publicación sobre los beneficios del gas propano frente a otras fuentes de energía.  
+  **Formato:** Infografía sencilla.  
+
+- **Día 4:**  
+  Testimonio de un cliente satisfecho (simulado si aún no hay clientes reales).  
+  **Formato:** Imagen con texto y cita destacada.  
+
+- **Día 6:**  
+  Historias con encuestas interactivas: "¿Cuánto gas consume tu hogar en un mes?"  
+  **Formato:** Encuesta y caja de respuestas.  
+
+### Semana 3  
+- **Día 2:**  
+  Publicación educativa: "¿Cómo elegir el tamaño ideal de cilindro para tu negocio?"  
+  **Formato:** Video corto de 1 minuto con explicación.  
+
+- **Día 5:**  
+  Post destacando la ubicación y los canales de contacto de la distribuidora.  
+  **Formato:** Mapa interactivo con datos de contacto.  
+
+---
+
+## Frecuencia de Publicación  
+- **Publicaciones en el feed:** 2-3 publicaciones por semana.  
+- **Historias en redes sociales:** 3-5 historias semanales, reforzando mensajes clave y promociones.  
+- **Actualizaciones en Google My Business:** 1 publicación semanal para mejorar la visibilidad local.
