@@ -59,8 +59,8 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 **Imágenes promocionales:**  
 **Mensajes Publicitarios:**
 
-| **Imagen Promocional** | **Mensaje Publicitario** |
-|:----------------------:|:------------------------:|
+| **Imagen Promocional (DELL_A)** | **Mensaje Publicitario** |
+|:-------------------------------:|:------------------------:|
 | ![Catálogo](https://github.com/user-attachments/assets/2126af7d-25a3-46dd-9ec6-04afb7e02b83) | 🔵 **"Confianza que Enciende tu Hogar y tu Negocio"** 🔵 <br><br>En **Colgaz Del Valle CLC**, sabemos que la energía es el corazón de tu día a día. Por eso, ofrecemos **gas propano seguro, confiable y siempre a tiempo**. Ya sea para tu cocina, negocio o eventos especiales, **nos encargamos de que nunca te falte energía**.<br><br>🚚 **¡Entrega rápida y no tiene costo el domicilio!**<br>📞 **Contáctanos hoy mismo y descubre la comodidad de contar con un suministro confiable.**<br><br>🔗 **Tu seguridad, nuestra prioridad.** |
 
 
@@ -68,8 +68,8 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 
 ### Redacción de Descripción de Productos  
 
-| Imagen | Descripción del Producto |
-|:------:|:-------------------------|
+| Imagen (editado en Canvas) | Descripción del Producto |
+|:--------------------------:|:-------------------------|
 | ![10LB](https://github.com/magrelGuti/TalentoTech/blob/main/pipa10.png?raw=true) | **Cilindro de Gas 10LB (38 cm de altura)**<br>Perfecto para hogares pequeños o negocios con necesidades básicas de gas, este cilindro compacto de 10 libras es ideal para alimentar estufas, parrillas y calentadores. Con solo 38 cm de altura, es fácil de manejar y almacenar, ofreciendo practicidad sin ocupar mucho espacio. ¡Tu aliado para cocinar tus comidas favoritas o mantener tu negocio en marcha! |
 | ![20LB](https://github.com/magrelGuti/TalentoTech/blob/main/pipa20.png?raw=true) | **Cilindro de Gas 20LB (54 cm de altura)**<br>Diseñado para hogares activos o negocios pequeños, este cilindro de 20 libras y 54 cm de altura es una excelente opción para quienes buscan un equilibrio entre capacidad y portabilidad. Perfecto para equipos de cocina, parrillas o tareas diarias. ¡Haz tu día a día más cómodo con un suministro confiable de gas! |
 | ![33LB](https://github.com/magrelGuti/TalentoTech/blob/main/pipa33.png?raw=true) | **Cilindro de Gas 33LB (72 cm de altura)**<br>Si buscas más capacidad para uso doméstico o comercial, este cilindro de 33 libras es ideal para cubrir tus necesidades. Con 72 cm de altura, es perfecto para restaurantes, food trucks o familias numerosas que buscan un suministro continuo de gas. ¡Más tiempo de uso y menos recargas! |
