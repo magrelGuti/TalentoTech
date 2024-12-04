@@ -17,7 +17,7 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 
 | **DALL·E** | **Leonardo IA y editado en Canva** | **metalA** | **metalA** |
 |:----------:|:----------------------------------:|:----------:|:----------:|
-| ![DALL-E](https://raw.githubusercontent.com/magrelGuti/TalentoTech/refs/heads/main/DALL-E.png) | ![Leonardo IA y Canva](https://github.com/magrelGuti/TalentoTech/blob/main/logo3.png?raw=true) | ![metalA](https://github.com/magrelGuti/TalentoTech/blob/main/logo%201%20MetaIA.jpeg?raw=true) | ![metalA](https://github.com/magrelGuti/TalentoTech/blob/main/logo2%20Meta%20IA.jpeg?raw=true) |
+| ![DALL-E](https://github.com/magrelGuti/TalentoTech/blob/main/logo.png?raw=true) | ![Leonardo IA y Canva](https://github.com/magrelGuti/TalentoTech/blob/main/logo3.png?raw=true) | ![metalA](https://github.com/magrelGuti/TalentoTech/blob/main/logo%201%20MetaIA.jpeg?raw=true) | ![metalA](https://github.com/magrelGuti/TalentoTech/blob/main/logo2%20Meta%20IA.jpeg?raw=true) |
 
 ---
 
