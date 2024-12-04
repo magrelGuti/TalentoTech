@@ -61,7 +61,7 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 
 | **Imagen Promocional** | **Mensaje Publicitario** |
 |:----------------------:|:------------------------:|
-| ![Catálogo](https://github.com/user-attachments/assets/2126af7d-25a3-46dd-9ec6-04afb7e02b83) | 🔵 **"Confianza que Enciende tu Hogar y tu Negocio"** 🔵 <br><br>En **Colgaz Del Valle CLC**, sabemos que la energía es el corazón de tu día a día. Por eso, ofrecemos **gas propano seguro, confiable y siempre a tiempo**. Ya sea para tu cocina, negocio o eventos especiales, **nos encargamos de que nunca te falte energía**.<br><br>🚚 **¡Entrega rápida y gratuita durante el primer mes!**<br>📞 **Contáctanos hoy mismo y descubre la comodidad de contar con un suministro confiable.**<br><br>🔗 **Tu seguridad, nuestra prioridad.** |
+| ![Catálogo](https://github.com/user-attachments/assets/2126af7d-25a3-46dd-9ec6-04afb7e02b83) | 🔵 **"Confianza que Enciende tu Hogar y tu Negocio"** 🔵 <br><br>En **Colgaz Del Valle CLC**, sabemos que la energía es el corazón de tu día a día. Por eso, ofrecemos **gas propano seguro, confiable y siempre a tiempo**. Ya sea para tu cocina, negocio o eventos especiales, **nos encargamos de que nunca te falte energía**.<br><br>🚚 **¡Entrega rápida y no tiene costo el domicilio!**<br>📞 **Contáctanos hoy mismo y descubre la comodidad de contar con un suministro confiable.**<br><br>🔗 **Tu seguridad, nuestra prioridad.** |
 
 
 ---
