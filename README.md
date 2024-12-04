@@ -70,7 +70,9 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 | ![33LB](https://github.com/magrelGuti/TalentoTech/blob/main/pipa33.png?raw=true) | **Cilindro de Gas 33LB (72 cm de altura)**<br>Si buscas más capacidad para uso doméstico o comercial, este cilindro de 33 libras es ideal para cubrir tus necesidades. Con 72 cm de altura, es perfecto para restaurantes, food trucks o familias numerosas que buscan un suministro continuo de gas. ¡Más tiempo de uso y menos recargas! |
 | ![40LB](https://github.com/magrelGuti/TalentoTech/blob/main/pipa40.png?raw=true) | **Cilindro de Gas 40LB (82 cm de altura)**<br>El cilindro de 40 libras es la elección ideal para negocios en crecimiento o hogares con mayores demandas. Su capacidad y 82 cm de altura lo hacen perfecto para cocinas industriales, hornos grandes o eventos al aire libre. ¡Asegúrate de nunca quedarte sin energía con este robusto cilindro! |
 | ![100LB](https://github.com/magrelGuti/TalentoTech/blob/main/pipa100.png?raw=true) | **Cilindro de Gas 100LB (126 cm de altura)**<br>Para los grandes retos de tu negocio o las mayores necesidades de tu hogar, este cilindro de 100 libras es la solución definitiva. Con 126 cm de altura, ofrece un suministro de gas duradero, perfecto para empresas, cocinas industriales o casas que buscan máxima autonomía. ¡Confía en este gigante para mantener todo funcionando sin interrupciones! |
-
+| ![mangera](https://github.com/magrelGuti/TalentoTech/blob/main/reguladormanguera.png?raw=true) | **Manguera y Regulador (accesorios incluidos)**<br>Manguera de 2 metros es esencial para tu cocina, incluye accesorios para la instalación  |
+| ![factura](https://github.com/magrelGuti/TalentoTech/blob/main/facturaelectronica.png?raw=true)
+) | **Factura electrónica (facturador de la DIAN)**<br>Si necesitas gas y requieres de factura electrónica, con nosotros esta al alcance no dejes tu negocio sin gas por mucho tiempo  |
 
 ---
 
