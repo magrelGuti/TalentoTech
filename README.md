@@ -63,20 +63,18 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 
 ### Redacción de Descripción de Productos  
 
-**Cilindro de Gas 10LB (38 cm de altura)**  
-Perfecto para hogares pequeños o negocios con necesidades básicas de gas, este cilindro compacto de 10 libras es ideal para alimentar estufas, parrillas y calentadores. Con solo 38 cm de altura, es fácil de manejar y almacenar, ofreciendo practicidad sin ocupar mucho espacio. ¡Tu aliado para cocinar tus comidas favoritas o mantener tu negocio en marcha!  
+| Imagen | Descripción del Producto |
+|:------:|:-------------------------|
+| ![10LB](![image](https://github.com/user-attachments/assets/bf4791cc-2d2b-41af-b065-a0c80cde5ce4)
+) | **Cilindro de Gas 10LB (38 cm de altura)**<br>Perfecto para hogares pequeños o negocios con necesidades básicas de gas, este cilindro compacto de 10 libras es ideal para alimentar estufas, parrillas y calentadores. Con solo 38 cm de altura, es fácil de manejar y almacenar, ofreciendo practicidad sin ocupar mucho espacio. ¡Tu aliado para cocinar tus comidas favoritas o mantener tu negocio en marcha! |
+| ![20LB](https://github.com/magrelGuti/TalentoTech/blob/main/pipa20.png?raw=true) | **Cilindro de Gas 20LB (54 cm de altura)**<br>Diseñado para hogares activos o negocios pequeños, este cilindro de 20 libras y 54 cm de altura es una excelente opción para quienes buscan un equilibrio entre capacidad y portabilidad. Perfecto para equipos de cocina, parrillas o tareas diarias. ¡Haz tu día a día más cómodo con un suministro confiable de gas! |
+| ![33LB](![image](https://github.com/user-attachments/assets/f8706c88-6944-4378-828b-5dab01347ce8)
+) | **Cilindro de Gas 33LB (72 cm de altura)**<br>Si buscas más capacidad para uso doméstico o comercial, este cilindro de 33 libras es ideal para cubrir tus necesidades. Con 72 cm de altura, es perfecto para restaurantes, food trucks o familias numerosas que buscan un suministro continuo de gas. ¡Más tiempo de uso y menos recargas! |
+| ![40LB](![image](https://github.com/user-attachments/assets/7dc6d5e7-13ea-4d10-8e91-046d7d9ab89d)
+) | **Cilindro de Gas 40LB (82 cm de altura)**<br>El cilindro de 40 libras es la elección ideal para negocios en crecimiento o hogares con mayores demandas. Su capacidad y 82 cm de altura lo hacen perfecto para cocinas industriales, hornos grandes o eventos al aire libre. ¡Asegúrate de nunca quedarte sin energía con este robusto cilindro! |
+| ![100LB](![image](https://github.com/user-attachments/assets/ca527c1b-3ed5-4f1f-9e68-694ddc190a71)
+) | **Cilindro de Gas 100LB (126 cm de altura)**<br>Para los grandes retos de tu negocio o las mayores necesidades de tu hogar, este cilindro de 100 libras es la solución definitiva. Con 126 cm de altura, ofrece un suministro de gas duradero, perfecto para empresas, cocinas industriales o casas que buscan máxima autonomía. ¡Confía en este gigante para mantener todo funcionando sin interrupciones! |
 
-**Cilindro de Gas 20LB (54 cm de altura)**  
-Diseñado para hogares activos o negocios pequeños, este cilindro de 20 libras y 54 cm de altura es una excelente opción para quienes buscan un equilibrio entre capacidad y portabilidad. Perfecto para equipos de cocina, parrillas o tareas diarias. ¡Haz tu día a día más cómodo con un suministro confiable de gas!  
-
-**Cilindro de Gas 33LB (72 cm de altura)**  
-Si buscas más capacidad para uso doméstico o comercial, este cilindro de 33 libras es ideal para cubrir tus necesidades. Con 72 cm de altura, es perfecto para restaurantes, food trucks o familias numerosas que buscan un suministro continuo de gas. ¡Más tiempo de uso y menos recargas!  
-
-**Cilindro de Gas 40LB (82 cm de altura)**  
-El cilindro de 40 libras es la elección ideal para negocios en crecimiento o hogares con mayores demandas. Su capacidad y 82 cm de altura lo hacen perfecto para cocinas industriales, hornos grandes o eventos al aire libre. ¡Asegúrate de nunca quedarte sin energía con este robusto cilindro!  
-
-**Cilindro de Gas 100LB (126 cm de altura)**  
-Para los grandes retos de tu negocio o las mayores necesidades de tu hogar, este cilindro de 100 libras es la solución definitiva. Con 126 cm de altura, ofrece un suministro de gas duradero, perfecto para empresas, cocinas industriales o casas que buscan máxima autonomía. ¡Confía en este gigante para mantener todo funcionando sin interrupciones!  
 
 ---
 
