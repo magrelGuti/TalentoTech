@@ -57,10 +57,9 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 ### Sección de Contenido Visual para Redes Sociales  
 
 **Imágenes promocionales:**  
+**Mensajes Publicitarios:**
 
 ---
-
-## Mensajes Publicitarios  
 
 ### Redacción de Descripción de Productos  
 
@@ -110,9 +109,9 @@ El objetivo principal de la estrategia inicial es posicionar la distribuidora de
 
 ---
 
-## Calendario de Publicaciones  
+### Calendario de Publicaciones  
 
-### Semana 1  
+#### Semana 1  
 - **Día 1:**  
   Publicación de presentación de la distribuidora: historia, misión, y visión.  
   **Formato:** Video de 30 segundos con imágenes del local, los productos y el equipo humano.  
@@ -125,7 +124,7 @@ El objetivo principal de la estrategia inicial es posicionar la distribuidora de
   Historias en Instagram/Facebook anunciando la promoción de lanzamiento: "Entrega gratis durante diciembre."  
   **Formato:** Imagen con texto animado.  
 
-### Semana 2  
+#### Semana 2  
 - **Día 2:**  
   Publicación sobre los beneficios del gas propano frente a otras fuentes de energía.  
   **Formato:** Infografía sencilla.  
@@ -138,7 +137,7 @@ El objetivo principal de la estrategia inicial es posicionar la distribuidora de
   Historias con encuestas interactivas: "¿Cuánto gas consume tu hogar en un mes?"  
   **Formato:** Encuesta y caja de respuestas.  
 
-### Semana 3  
+#### Semana 3  
 - **Día 2:**  
   Publicación educativa: "¿Cómo elegir el tamaño ideal de cilindro para tu negocio?"  
   **Formato:** Video corto de 1 minuto con explicación.  
@@ -149,7 +148,7 @@ El objetivo principal de la estrategia inicial es posicionar la distribuidora de
 
 ---
 
-## Frecuencia de Publicación  
+### Frecuencia de Publicación  
 - **Publicaciones en el feed:** 2-3 publicaciones por semana.  
 - **Historias en redes sociales:** 3-5 historias semanales, reforzando mensajes clave y promociones.  
 - **Actualizaciones en Google My Business:** 1 publicación semanal para mejorar la visibilidad local.
