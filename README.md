@@ -7,6 +7,8 @@ Soy una futura emprendedora sobre una distribuidora de gas propano en la ciudad 
 
 **Necesito lo siguiente para mi emprendimiento, por favor ayúdame:**
 
+---
+
 ### Portada
 - **Nombre de la marca:** Colgaz del Valle clc Tuluá  
 - **Eslogan:** "Energía segura, calor confiable"  
