@@ -150,3 +150,42 @@ El objetivo principal de la estrategia inicial es posicionar la distribuidora de
 - **Publicaciones en el feed:** 2-3 publicaciones por semana.  
 - **Historias en redes sociales:** 3-5 historias semanales, reforzando mensajes clave y promociones.  
 - **Actualizaciones en Google My Business:** 1 publicación semanal para mejorar la visibilidad local.
+
+
+# Sección 28 
+
+## Imágenes y campañas publicitarias 
+
+### Imágenes:
+
+| **DALL·E** | **Leonardo IA y editado en Canva** | **metalA** |
+|:----------:|:----------------------------------:|:----------:|
+| ![DALL-E](https://github.com/magrelGuti/TalentoTech/blob/main/logo.png?raw=true) | ![Leonardo IA y Canva](https://github.com/magrelGuti/TalentoTech/blob/main/logo3.png?raw=true) | ![metalA](https://github.com/magrelGuti/TalentoTech/blob/main/logo%201%20MetaIA.jpeg?raw=true) |
+
+---
+
+### Mensajes publicitarios para las campañas:
+
+**Seguridad y confiabilidad:**  
+*"¡Tu hogar merece lo mejor! Confía en nuestra distribución de gas propano, segura y puntual en Tuluá. 🌟 Llámanos hoy y siente la diferencia."*
+
+---
+
+**Energía para compartir:**  
+*"¡Que nada detenga tus momentos especiales! Nuestros cilindros de gas propano están listos para encender tus parrilladas y reuniones familiares. 🍖🔥"*
+
+---
+
+**Amigable y siempre a tu servicio:**  
+*"Con nosotros, el gas propano llega con una sonrisa. 😊💨 Llámanos y asegura el mejor servicio para tu hogar en Tuluá."*
+
+---
+
+**Promoción especial:**  
+*"¡Ofertas calientes en Tuluá! 💥 Recibe descuentos en tu recarga de gas propano. Calidad, precio y servicio al alcance de tu mano."*
+
+---
+
+**Innovación y cercanía:**  
+*"En nuestra distribuidora de gas propano, ¡no solo llevamos energía, llevamos confianza! 🚛⚡ Contáctanos y disfruta de nuestro servicio rápido y amigable."*
+
