@@ -158,9 +158,9 @@ El objetivo principal de la estrategia inicial es posicionar la distribuidora de
 
 ### Imágenes:
 
-| **DALL·E** | **Leonardo IA y editado en Canva** | **metalA** |
-|:----------:|:----------------------------------:|:----------:|
-| ![DALL-E](https://github.com/magrelGuti/TalentoTech/blob/main/logo.png?raw=true) | ![Leonardo IA y Canva](https://github.com/magrelGuti/TalentoTech/blob/main/logo3.png?raw=true) | ![metalA](https://github.com/magrelGuti/TalentoTech/blob/main/logo%201%20MetaIA.jpeg?raw=true) |
+| **free.theresanaiforthat** | **free.theresanaiforthat** | **free.theresanaiforthat** |
+|:--------------------------:|:--------------------------:|:--------------------------:|
+| ![campaña 1](https://github.com/magrelGuti/TalentoTech/blob/main/campa%C3%B1a1.png?raw=true) | ![campaña 2](https://github.com/magrelGuti/TalentoTech/blob/main/campa%C3%B1a2.png?raw=true) | ![campaña 3](https://github.com/magrelGuti/TalentoTech/blob/main/campa%C3%B1a3.png?raw=true) |
 
 ---
 
